@@ -1,8 +1,4 @@
-# Analisis Penjualan Mobil BMW Tahun 2018 - 2024
-
-## Repository Outline
-`description.md: Deskripsi data, latar belakang, tujuan, data, metode, package, dan referensi sebagai pendukung`
-`P0M1_Farhan_Narendra_Achyara.ipynb: Kodingan untuk data preprocessing, analisis data, dan visualisasi data.`
+# Analisis Penjualan Mobil BMW Tahun 2018 - 2024`
 
 ## Problem Background
 
@@ -23,5 +19,6 @@
 
 ## Reference
 [BMW Worldwide Sales Records (2010–2024)]https://www.kaggle.com/datasets/ahmadrazakashif/bmw-worldwide-sales-records-20102024
+
 
 [German premium carmakers' sales battered in China and Germany amid slowdown]https://www.reuters.com/business/autos-transportation/bmw-group-annual-sales-fall-weak-demand-china-germany-2025-01-13/
