@@ -1,5 +1,7 @@
 # Analisis Penjualan Mobil BMW Tahun 2018 - 2024`
 
+Berikut adalah link dashboard Tableau Public: https://public.tableau.com/app/profile/farhan.narendra.achyara/viz/Book1_17598250967510/Dashboard2?publish=yes
+
 ## Problem Background
 
 `Penjualan mobil BMW mengalami penurunan penjualan pada tahun 2022 - 2024 sehingga keuntungan menurun. BMW ingin kembali bersaing dalam industri mobil baik mobil konvensional dan mobil listrik di berbagai wilayah sebesar 15% setiap tahunnya. Strategi yang akan dilakukan agar penjualan meningkat lagi adalah periklanan, wilayah produksi mobil di luar Jerman, dan bikin produk yang lebih menjangkau konsumen. Dampak yang diberikan adalah keuangan. Diharapkan penjualan mobil BMW dapat meningkat dalam waktu 1-2 tahun.`
